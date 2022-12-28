@@ -1,1 +1,2 @@
-Architectural-level VLSI structures for digital signal processing: feedforward and feedback systems, fixed-point and floating-point representations, folding, iteration bound, parallel architectures, pipelining, retiming, unfolding, wave and asynchronous pipelining.
+1. Edge-triggered muxed-D scan chain insertion in the benchmark circuit s27.
+2. Built-in self-test (BIST) structure based on Built-in logic block observer (BILBO) to test a 4-bit adder.
